@@ -36,6 +36,8 @@ multiple choice questions
 
 (b) Arrange these metals in descending order of reactivity.[1/2 marks]
 ```
+![Image 1](https://media.discordapp.net/attachments/976037699083452456/1193874885240442920/image.png?ex=65ae4da1&is=659bd8a1&hm=fc98b5a7b10c2d1325163d282d6c8f5b92337004161ccc05737436f5a8d9722f&=&format=webp&quality=lossless&width=529&height=671)
+
 
 ### Step 4: Prompt Example
 
