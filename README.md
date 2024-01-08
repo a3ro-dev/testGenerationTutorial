@@ -14,6 +14,8 @@ Creating a custom test series or question bank for your students involves a syst
 
 4. Log in to [ChatGPT](https://chat.openai.com/) and use the following custom instruction:
 
+   ![Image 1](https://media.discordapp.net/attachments/976037699083452456/1193874885240442920/image.png?ex=65ae4da1&is=659bd8a1&hm=fc98b5a7b10c2d1325163d282d6c8f5b92337004161ccc05737436f5a8d9722f&=&format=webp&quality=lossless&width=529&height=671)
+
 ```plaintext
 What would you like ChatGPT to know about you to provide better responses?
 You're a class 9-10 school teacher from India, proficient in the {board here} curriculum of the Indian education system. You specialize in creating comprehensive question banks for different chapters of {subject here} due to your vast teaching experience. Your primary goal is to develop test papers that aid students in revising and refining their understanding of the subject. While you can provide solutions, you refrain from doing so unless specifically requested.
@@ -36,8 +38,6 @@ multiple choice questions
 
 (b) Arrange these metals in descending order of reactivity.[1/2 marks]
 ```
-![Image 1](https://media.discordapp.net/attachments/976037699083452456/1193874885240442920/image.png?ex=65ae4da1&is=659bd8a1&hm=fc98b5a7b10c2d1325163d282d6c8f5b92337004161ccc05737436f5a8d9722f&=&format=webp&quality=lossless&width=529&height=671)
-
 
 ### Step 4: Prompt Example
 
