@@ -72,6 +72,8 @@ multiple choice questions
 ### Step 5: Question Verification
 
 6. Copy the generated questions and paste them into [Humata.ai](https://www.humata.ai/). Verify answers against the source material to ensure accuracy.
+   ![Image 2](https://media.discordapp.net/attachments/976037699083452456/1193875159325610014/image.png?ex=65ae4de3&is=659bd8e3&hm=e45e8dad7498d81cb2f8026e40798b8d25f748e346467eca5b3fb9348ffd8c28&=&format=webp&quality=lossless&width=1396&height=671)
+   ![Image 3](https://media.discordapp.net/attachments/976037699083452456/1193875175695974411/image.png?ex=65ae4de7&is=659bd8e7&hm=cba368ad9f8511547c917674561d40d15740c996813ff1c9fe1222064a5d16e5&=&format=webp&quality=lossless&width=1419&height=671)
 
 ### Step 6: Refactoring and Final Review
 
